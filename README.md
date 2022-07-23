@@ -9,3 +9,4 @@ https://replit.com/@HafeezAnwar/boilerplate-demographic-data-analyzer-2#main.py
 
 Run main.py to see the following output where it can observed that the code passes all the 10 tests. 
 
+![output](https://user-images.githubusercontent.com/109077603/180603114-be956d50-5325-4dab-bfff-9a226b7cdabc.JPG)
